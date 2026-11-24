@@ -1,0 +1,4 @@
+ New premier ligne du fichier merge
+ 2 eme ligne 
+ 3 eme ligne 
+
